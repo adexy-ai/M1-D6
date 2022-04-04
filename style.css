@@ -1,0 +1,21 @@
+/* #random_image {
+    background-color: "https://i.pinimg.com/564x/02/29/24/022924614091517ee8e360473e4fd5c0.jpg" ;
+} */
+
+ #imageEdit {
+    background-color: aliceblue;
+}
+h1 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+h1 {
+    background-color: azure;
+    box-shadow: inset;
+}
+
+.hobbieLink {
+    top:0%;
+    right:5%;
+}
