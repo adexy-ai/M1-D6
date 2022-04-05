@@ -26,7 +26,7 @@ h1 {
     object-position: right; */
     background-color: coral;
 }
-.image2p {
+.image2 {
     background-color: rgb(62, 28, 28);
     color: aliceblue;
     font-size: x-large;
@@ -36,18 +36,15 @@ h1 {
     /* border-width: 10px; */
     /* border-right: cyan; */
 }
-.image22 {
+.menuBar {
     background-color: rgb(62, 28, 28);
     color: aliceblue;
     font-size: x-large;
     font-weight: bolder;
     border: 2px;
-    border-color: antiquewhite;
-    border-width: 10px; 
-    border-right: cyan;
 }
 .tableEdit {
-    text-align: right;
+    text-align: center;
     color: blueviolet;
     background-color: aquamarine;
     font-size: large;
@@ -58,5 +55,5 @@ h1 {
 p.tableEdit {
     font-size: 40px;
     font-weight: bolder;
-
 }
+
